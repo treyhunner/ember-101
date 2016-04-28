@@ -2,7 +2,7 @@
 
 https://hbrysiewicz.typeform.com/to/DMKtHS
 
-Please take 2 minutes to complete our breif workshop feedback form!
+Please take 2 minutes to complete our brief workshop feedback form!
 
 
 # Where do I go next?

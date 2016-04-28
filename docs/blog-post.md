@@ -22,7 +22,7 @@ export default Model.extend({
 });
 ```
 
-What is that funky syntax?  `import Model from 'ember-data/model` and `export default Model.extend()`?  Welcome to the world of tomorrow!
+What is that funky syntax?  `import Model from 'ember-data/model'` and `export default Model.extend()`?  Welcome to the world of tomorrow!
 
 Those `import` and `export` statements use ECMAScript 6 module syntax. Thanks to the magic of transpilers, we can already use them today even though no browsers support ES6 yet. This should look familiar if you have used Node.js or AMD modules, there's just slightly different syntax.  We're importing a module from 'ember-data/model' and calling it `Model`.  Then we're extending the `Model` class and using that as our module export.
 
